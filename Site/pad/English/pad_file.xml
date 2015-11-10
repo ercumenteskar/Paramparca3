@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<XML_DIZ_INFO>
+<MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+<Company_Info>
+        <Company_Name>Ercument Eskar</Company_Name>
+        <Address_1 />
+        <Address_2 />
+        <City_Town>Istanbul</City_Town>
+        <State_Province />
+        <Zip_Postal_Code />
+        <Country>Turkey</Country>
+        <Company_WebSite_URL>http://www.paramparca.com</Company_WebSite_URL>
+<Contact_Info>
+        <Author_First_Name>Ercument</Author_First_Name>
+        <Author_Last_Name>Eskar</Author_Last_Name>
+        <Author_Email>ercument_eskar@hotmail.com</Author_Email>
+        <Contact_First_Name>Ercument</Contact_First_Name>
+        <Contact_Last_Name>Eskar</Contact_Last_Name>
+        <Contact_Email>ercument_eskar@hotmail.com</Contact_Email>
+    </Contact_Info>
+<Support_Info>
+        <Sales_Email>ercument_eskar@hotmail.com</Sales_Email>
+        <Support_Email>ercument_eskar@hotmail.com</Support_Email>
+        <General_Email>ercument_eskar@hotmail.com</General_Email>
+        <Sales_Phone />
+        <Support_Phone />
+        <General_Phone />
+        <Fax_Phone />
+    </Support_Info>
+</Company_Info>
+<Program_Info>
+        <Program_Name>Paramparca</Program_Name>
+        <Program_Version>3</Program_Version>
+        <Program_Release_Month>09</Program_Release_Month>
+        <Program_Release_Day>04</Program_Release_Day>
+        <Program_Release_Year>2002</Program_Release_Year>
+        <Program_Cost_Dollars />
+        <Program_Cost_Other_Code />
+        <Program_Cost_Other />
+        <Program_Type>Freeware</Program_Type>
+        <Program_Release_Status>Major Update</Program_Release_Status>
+        <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+        <Program_OS_Support>Win95,Win98,WinME,WinXP,Windows2000</Program_OS_Support>
+        <Program_Language>English,Turkish</Program_Language>
+<File_Info>
+        <Filename_Versioned>Pp3Install.exe</Filename_Versioned>
+        <Filename_Previous>Pp3Install.exe</Filename_Previous>
+        <Filename_Generic>Pp3Install.exe</Filename_Generic>
+        <Filename_Long>Pp3Install.exe</Filename_Long>
+        <File_Size_Bytes>1304576</File_Size_Bytes>
+        <File_Size_K>1274</File_Size_K>
+        <File_Size_MB>1.27</File_Size_MB>
+    </File_Info>
+<Expire_Info>
+        <Has_Expire_Info>N</Has_Expire_Info>
+        <Expire_Count />
+        <Expire_Based_On>Days</Expire_Based_On>
+        <Expire_Other_Info />
+        <Expire_Month />
+        <Expire_Day />
+        <Expire_Year />
+    </Expire_Info>
+        <Program_Change_Info>Folder splitting, compress before splitting, improved ease of use</Program_Change_Info>
+        <Program_Specific_Category>Utilities</Program_Specific_Category>
+        <Program_Categories>File &amp; Disk utilities</Program_Categories>
+        <Program_System_Requirements>Almost every PC</Program_System_Requirements>
+        <Includes_JAVA_VM>N</Includes_JAVA_VM>
+        <Includes_VB_Runtime>N</Includes_VB_Runtime>
+        <Includes_DirectX>N</Includes_DirectX>
+</Program_Info>
+<Program_Descriptions>
+<English>
+        <Keywords>Split, program, file, directory, folder, piece, mp3, montage, compress</Keywords>
+        <Char_Desc_45>3. version of Paramparca. For your files...</Char_Desc_45>
+        <Char_Desc_80>For split your files and folders. And for mp3 montage... Just Quick &amp; Easy</Char_Desc_80>
+        <Char_Desc_250>Very handy &amp; useful, multi-function splitter program. Unlimited &amp; 100% free for you. You can compress &amp; split your large files and folders to a size you need. Besides you can crop any part of your mp3 track you want.</Char_Desc_250>
+        <Char_Desc_450>Very handy &amp; useful, multi-function splitter program. Unlimited &amp; 100% free for you. You can compress &amp; split your large files and folders to a size you need. Besides you can crop any part of your mp3 track you want. Paramparca is a little giant program that will bring speed and easiness to your daily life. Henceforth file transfer with e-mail or disc is completely easy, safe and really fast...</Char_Desc_450>
+        <Char_Desc_2000>Very handy &amp; useful, multi-function splitter program. Unlimited &amp; 100% free for you. You can compress &amp; split your large files and folders to a size you need. Besides you can crop any part of your mp3 track you want. Paramparca is a little giant program that will bring speed and easiness to your daily life. Henceforth file transfer with e-mail or disc is completely easy, safe and really fast... Please fill Paramparca's commentbook for your opinions about Paramparca. This is very important for me. Commentbook address: http://erciiii.kolayweb.com/yorumlar.htm</Char_Desc_2000>
+</English>
+<Turkish>
+        <Keywords>Parçalama, program, dosya, klasör, parça, mp3, montaj, sýkýþtýrma</Keywords>
+        <Char_Desc_45>Paramparça'nýn 3. versiyonu</Char_Desc_45>
+        <Char_Desc_80>Dosya ve klasörlerinizi parçalamanýz, mp3'lerinizi montajlamanýz için...</Char_Desc_80>
+        <Char_Desc_250>Çok kullanýþlý ve yardýmcý, sýkýþtýrma destekli parçalama programý. Limitsiz ve tamamen ücretsiz. Büyük dosya ve klasörlerinizi sýkýþtýrarak istediðiniz boyutlara parçalayabilirsiniz. Ayrýca mp3 parçalarýnýzýn istediðiniz bölümlerini çýkarabilirsiniz</Char_Desc_250>
+        <Char_Desc_450>Çok kullanýþlý ve yardýmcý, sýkýþtýrma destekli parçalama programý. Limitsiz ve tamamen ücretsiz. Büyük dosya ve klasörlerinizi sýkýþtýrarak istediðiniz boyutlara parçalayabilirsiniz. Ayrýca mp3 parçalarýnýzýn istediðiniz bölümlerini çýkarabilirsiniz. Paramparça günlük hayatýnýzda size hýz ve ekonomiyi getirecek küçük bir dev program. Artýk e-mail veya disketle dosya aktarýmý tamamen zahmetsiz, güvenli ve gerçekten hýzlý...</Char_Desc_450>
+        <Char_Desc_2000>Çok kullanýþlý ve yardýmcý, sýkýþtýrma destekli parçalama programý. Limitsiz ve tamamen ücretsiz. Büyük dosya ve klasörlerinizi sýkýþtýrarak istediðiniz boyutlara parçalayabilirsiniz. Ayrýca mp3 parçalarýnýzýn istediðiniz bölümlerini çýkarabilirsiniz. Paramparça günlük hayatýnýzda size hýz ve ekonomiyi getirecek küçük bir dev program. Artýk e-mail veya disketle dosya aktarýmý tamamen zahmetsiz, güvenli ve gerçekten hýzlý. Program hakkýnda görüþleriniz için lütfen Paramparça web sitesindeki yorum defterini doldurun. Adres: http://erciiii.kolayweb.com/yorumlar.htm</Char_Desc_2000>
+</Turkish>
+</Program_Descriptions>
+<Web_Info>
+<Application_URLs>
+        <Application_Info_URL>http://www.paramparca.com</Application_Info_URL>
+        <Application_Order_URL />
+        <Application_Screenshot_URL>http://erciiii.kolayweb.com/screen4.jpg</Application_Screenshot_URL>
+        <Application_Icon_URL>http://erciiii.kolayweb.com/hides.gif</Application_Icon_URL>
+        <Application_XML_File_URL />
+    </Application_URLs>
+<Download_URLs>
+        <Primary_Download_URL>http://www.batur.com/cgi-bin/down.pl?id=erci&amp;s=4</Primary_Download_URL>
+        <Secondary_Download_URL />
+        <Additional_Download_URL_1 />
+        <Additional_Download_URL_2 />
+    </Download_URLs>
+</Web_Info>
+<Permissions>
+        <Distribution_Permissions />
+        <EULA />
+</Permissions>
+</XML_DIZ_INFO>

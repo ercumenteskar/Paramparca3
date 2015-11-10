@@ -1,0 +1,56 @@
+He&lp
+...Ab&out...
+File to split :
+Destination folder for split files :
+Max piece size :
+Original size :
+Number of split files :
+Status on piece :
+Status on file :
+Start time :
+End time :
+Crop from media file
+Compress pieces
+Split folder
+Total length :
+&Split
+Double click for reset
+Easy move
+Want approval after compress
+Open directory after splitting complete
+Language
+Splitting
+Driver not found
+Path error!
+Please enter media file length
+Please enter end time of selection
+second
+Folder compressing...
+File compressing...
+Compressed directory size is 
+Splitting stopped. Because compressed directory size small than max piece size.
+Wrong max piece size! 
+Compressed file size is 
+Splitting stopped. Because compressed file size small than max piece size.
+Count of piece(s) 
+file for merge
+Do you want to continue splitting
+Stop or Continue
+Please check original size and max piece size.
+Your disk capacity is small for this piece. Select smaller 'max piece size' or bigger disk.
+Not enough disk capacity
+Not enough freespace of disk. Select smaller 'max piece size' or extract more freespace.
+Disk is full!
+Not enough freespace of disk. Change your disk and select retry. Click cancel for quit.
+Change your disk!
+piece(s)
+Destination folder for crop file : 
+End time can't equal start time!
+Total time can't before end time!
+Start time can't after end time!
+End time can't after total time!
+Folder to split
+Directory size calculating...
+Please wait...
+ piece(s))
+More language...
